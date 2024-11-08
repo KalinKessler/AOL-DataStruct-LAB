@@ -1,0 +1,5 @@
+Edrico;123123;CO;M;13;3.00;2;598
+Edrico Putra;2602078133;Computer Science;M;19;4.00;4;1154
+Rahhello;2602010101;CO;F;19;4.00;4;815
+test namew;123345;CS;M;12;4.00;4;1016
+test nammeq;123456;CS;M;12;4.00;4;1119
